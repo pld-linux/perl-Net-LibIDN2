@@ -7,7 +7,7 @@
 Summary:	Net::LibIDN2 - Perl bindings for GNU Libidn2
 Name:		perl-Net-LibIDN2
 Version:	1.02
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
